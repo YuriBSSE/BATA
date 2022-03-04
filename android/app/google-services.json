@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385824149869",
+    "project_id": "bata-14b76",
+    "storage_bucket": "bata-14b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385824149869:android:f1526369159732a5090a64",
+        "android_client_info": {
+          "package_name": "com.bata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385824149869-7efcjn9qc5rel7j4jgq2oj08knmgrkej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvMl4sq_dg3Qy6GFp6Fupb65WxqTJhYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385824149869-7efcjn9qc5rel7j4jgq2oj08knmgrkej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
